@@ -1,4 +1,3 @@
-ViniciusCesario
 Hi 👋 My name is Vinicius Cesario
 =================================
 
